@@ -19,7 +19,7 @@ import {
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
           {/* Contact Info */}
           <div>
-            <h2 className="text-2xl font-semibold mb-4">Let's Talk</h2>
+            <h2 className="text-2xl font-semibold mb-4">Let&apos;s Talk</h2>
             <p className="flex items-center justify-center md:justify-start gap-2 text-blue-200">
               <Phone size={18} /> (212) 555-1234
             </p>
