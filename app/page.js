@@ -11,6 +11,7 @@ import Footer from "./components/footer";
 import { Menu } from "lucide-react";
 import Header from "./components/header";
 import CalendlyCTA from "./components/ui/cta";
+import './globals.css';
  
 export default function Home() {
   const [loading, setLoading] = useState(false);
